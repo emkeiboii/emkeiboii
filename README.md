@@ -1,8 +1,4 @@
-- Hi, I’m @emkeiboii
-- Working with HTML, CSS, JavaScript, React, Typescript.
-- Learning is hard but its also fun and exciting.
-
-- My dream is being the one who helps write code.
+Hello 👋🏼
 
 <!---
 emkeiboii/emkeiboii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
