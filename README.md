@@ -22,14 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/emkeiboii/count.svg?"  />
-</div>
-
-###
-
 <!---
 emkeiboii/emkeiboii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
